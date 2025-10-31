@@ -2,8 +2,8 @@
 title: Les signaux
 description: Catégories de télémétrie supportées par OpenTelemetry
 weight: 11
-default_lang_commit: 71833a5f8b84110dadf1e98604b87a900724ac33
 drifted_from_default: true
+default_lang_commit: bc9473716003fd99487e16f95dd2c3a5b072bd2a
 ---
 
 L'objectif d'OpenTelemetry est de collecter, traiter et exporter des
