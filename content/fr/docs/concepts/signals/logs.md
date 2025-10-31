@@ -3,6 +3,7 @@ title: Logs
 description: L'enregistrement des évènements.
 weight: 3
 cSpell:ignore: filelogreceiver semistructured transformprocessor
+default_lang_commit: bc9473716003fd99487e16f95dd2c3a5b072bd2a
 ---
 
 Un **log** est un enregistrement de texte horodaté, soit structuré 
