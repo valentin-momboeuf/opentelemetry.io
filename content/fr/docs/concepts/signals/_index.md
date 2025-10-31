@@ -16,11 +16,20 @@ votre système distribué. Vous avez la possibilité de regrouper plusieurs sign
 ensemble afin d'observer sous différents angles le fonctionnement d'une
 technologie.
 
-OpenTelemetry supporte actuellement les [traces](/docs/concepts/signals/traces),
-les [métriques](/docs/concepts/signals/metrics), les
-[logs](/docs/concepts/signals/logs) et les
-[bagages](/docs/concepts/signals/baggage). Les _événements_ sont une catégorie
-de log. Un groupe dédié au profilage travaille actuellement sur les
-[_profils_](https://github.com/open-telemetry/opentelemetry-specification/blob/main/oteps/profiles/0212-profiling-vision.md).
+OpenTelemetry supporte actuellement les:
+- [traces](traces)
+- [métriques](metrics)
+- [logs](logs)
+- [bagages](baggage)
 
+Également en cours de développement ou au stade de [propositions]
+
+- Les [évènements], un type spécifique de [logs](logs)
+- Les [profils], en cours de développement par le groupe de travail sur le profilage.
+
+[évènements]: /docs/specs/otel/logs/data-model/#events
+[Profils]:
+  https://github.com/open-telemetry/opentelemetry-specification/blob/main/oteps/profiles/0212-profiling-vision.md
+[propositions]:
+  https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/#readme
 [signals]: /docs/specs/otel/glossary/#signals
