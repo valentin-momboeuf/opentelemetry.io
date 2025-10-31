@@ -12,7 +12,7 @@ De tous les signaux de télémétrie, les logs ont le plus grands héritages.
 La plupart des langages de programmation on des  fonctionnalités de logs
 intégrés ou des bibliothèques des journalisation bien connues.
 
-## Logs OpenTelemetry
+## Logs OpenTelemetry {#logs-opentelemetry}
 
 Opentelemetry ne définit pas d'API ou de SKD sur mesure pour la création de
 logs. Au lieu de cela, les logs OpenTelemetry sont les logs existants que vous
